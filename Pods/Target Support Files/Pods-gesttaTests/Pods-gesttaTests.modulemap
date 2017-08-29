@@ -1,0 +1,6 @@
+framework module Pods_gesttaTests {
+  umbrella header "Pods-gesttaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (4.4.0)
+  - DCAnimationKit (0.0.6)
+  - KeychainAccess (3.0.1)
+  - ObjectMapper (2.0.0)
+  - Realm (2.8.0):
+    - Realm/Headers (= 2.8.0)
+  - Realm/Headers (2.8.0)
+  - RealmSwift (2.8.0):
+    - Realm (= 2.8.0)
+  - RSStarterKit (3.10.2):
+    - Alamofire (~> 4.0)
+    - DCAnimationKit (~> 0.0.6)
+    - KeychainAccess (= 3.0.1)
+    - ObjectMapper (~> 2.0.0)
+    - RealmSwift
+    - SVProgressHUD (~> 2.0.3)
+  - RSWidgets (3.10.0)
+  - ScrollPager (0.9)
+  - SVProgressHUD (2.0.4)
+
+DEPENDENCIES:
+  - RSStarterKit
+  - RSWidgets
+  - ScrollPager (~> 0.9)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  DCAnimationKit: 7133bef877ce1aa113dcfeea1380ca67f91f7608
+  KeychainAccess: 017ea25e313a49eda10bb19b0bb0760fb1edfe1a
+  ObjectMapper: aed2570edabbd3c9b26c939e1cabdb6558f933e0
+  Realm: 929243ad2b618b3232e70658bedc61110e7563f1
+  RealmSwift: 5b7079b891f2833d1849294161ba3e092bbda3f6
+  RSStarterKit: 7edc242775d5bd026e0ecd7b0f81923e4d2fa0ab
+  RSWidgets: a5595bc96ea43bf9388304d2c72bf047995af615
+  ScrollPager: d717fef02a9b04f158696eaac715377fbe3f6acd
+  SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
+
+PODFILE CHECKSUM: 6cd0162af7111e62a57fb39bef09f28541b49b81
+
+COCOAPODS: 1.2.1

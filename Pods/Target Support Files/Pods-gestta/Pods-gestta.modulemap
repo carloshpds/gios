@@ -1,0 +1,6 @@
+framework module Pods_gestta {
+  umbrella header "Pods-gestta-umbrella.h"
+
+  export *
+  module * { export * }
+}

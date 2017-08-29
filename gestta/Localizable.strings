@@ -1,0 +1,16 @@
+//
+//  Localizable.strings
+//  redspark - base structure
+//  gestta
+//
+//  Created by Carlos Henrique on 20/06/17.
+//  Copyright © 2017 redspark. All rights reserved.
+//
+
+error_service = "Não foi possível chegar ao servidor";
+error_json = "Erro ao converter objeto";
+invalid_user = "Usuário inválido, verifique seu usuário e senha e tente novamente";
+
+// Login
+userNameLabel = "E-mail";
+userNameHint = "Digite seu e-mail";
